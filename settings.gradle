@@ -1,0 +1,4 @@
+include ':customerxj'
+include ':customerrxjava'
+include ':app'
+rootProject.name = "MyApp"
